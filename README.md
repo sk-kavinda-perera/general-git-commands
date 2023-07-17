@@ -1,6 +1,6 @@
 # GIT COMMANDS
 
-##GIT DOCUMENTATION -https://git-scm.com/docs/git
+## GIT DOCUMENTATION -https://git-scm.com/docs/git
  
 * **git init**  : Initializes a new Git repository in the current directory. ex(git init)
 * **git clone**: Creates a copy of a remote repository to your local machine. ex(git clone https://github.com/username/repo.git)
