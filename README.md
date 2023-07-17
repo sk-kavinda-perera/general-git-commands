@@ -1,3 +1,7 @@
+#Test
+**git
+*git1
+ 
  **git init **: Initializes a new Git repository in the current directory. ex(git init)
  #git clone: Creates a copy of a remote repository to your local machine. ex(git clone https://github.com/username/repo.git)
  #git add: Adds changes in the working directory to the staging area, preparing them  ex(git add file1.txt ||git add .)
